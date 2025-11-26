@@ -2,3 +2,4 @@
 - **Hito 1:** Define Directory Structure (Closed #1)
 - **Hito 2:** Create Shared Libraries (Closed #)
 - **Hito 3:** Implement Local Organizer (Closed #2)
+- **Hito 4:** API Connector Layer (Closed #3)
